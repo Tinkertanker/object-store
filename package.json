@@ -22,10 +22,10 @@
     , "glob": "3.1.21"
     , "q": "0.9.3"
     , "async": "0.2.8"
-    , "redis": "0.8.3"
-    , "hiredis": "0.1.15"
+    , "redis": "0.12.1"
+    , "hiredis": "0.2.0"
     , "memcached": "0.2.2"
-    , "microtime": "0.3.3"
+    , "microtime": "1.2.0"
     , "mocha": "1.9.0"
     , "should": "1.2.2"
   },
